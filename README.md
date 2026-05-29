@@ -1,1 +1,2 @@
-Brawl Stars AI Project
+
+ai for bs
