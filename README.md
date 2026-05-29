@@ -1,0 +1,2 @@
+# bsci
+ai for bs
