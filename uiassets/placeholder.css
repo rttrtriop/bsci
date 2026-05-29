@@ -1,0 +1,17 @@
+/* Стили для зоны картинки (пустой квадрат) */
+.img-placeholder {
+    background-color: #2A0E47; /* Более темный фон для контраста */
+    border: 2px dashed #5A1E96; /* Пунктирная граница */
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.img-placeholder:hover {
+    border-color: #8A4EE6; /* Более яркая граница при наведении */
+    background-color: #3C1464;
+}
