@@ -1,0 +1,10 @@
+/* Стили для информационной панели (FPS, Time) */
+.panel-info {
+    background-color: rgba(60, 20, 100, 0.8); /* Полупрозрачный темно-фиолетовый */
+    color: #FFFFFF;
+    border: 1px solid #5A1E96;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-family: "Courier New", Courier, monospace; /* Моноширинный для цифр */
+    font-size: 12px;
+}
